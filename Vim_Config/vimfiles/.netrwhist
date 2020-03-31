@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='D:/ART相关文档'
+let g:netrw_dirhist_3='D:/'
+let g:netrw_dirhist_2='D:/ART相关文档'
+let g:netrw_dirhist_1='D:/ART相关文档/tools'
